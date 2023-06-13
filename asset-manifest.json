@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/devconector/static/css/main.b6cd1c6f.css",
+    "main.js": "/devconector/static/js/main.9d8a5c19.js",
+    "static/media/showcase.jpg": "/devconector/static/media/showcase.33c7a31be966664a6454.jpg",
+    "index.html": "/devconector/index.html",
+    "main.b6cd1c6f.css.map": "/devconector/static/css/main.b6cd1c6f.css.map",
+    "main.9d8a5c19.js.map": "/devconector/static/js/main.9d8a5c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6cd1c6f.css",
+    "static/js/main.9d8a5c19.js"
+  ]
+}
